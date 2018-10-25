@@ -1,0 +1,22 @@
+{
+  "name": "my-jquery-pulsate",
+  "version": "1.0.0",
+  "description": "pulsate",
+  "main": "jquery.pulsate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjitsingh91/jquery.pulsate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjitsingh91/jquery.pulsate/issues"
+  },
+  "homepage": "https://github.com/manjitsingh91/jquery.pulsate#readme",
+  "dependencies": {
+    "jquery": "^1.11.0"
+  }
+}
