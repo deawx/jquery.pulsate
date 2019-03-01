@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/manjitsingh91/jquery.pulsate#readme",
   "dependencies": {
-    "jquery": "^1.11.0"
+    "jquery": ">=3.0.0"
   }
 }
